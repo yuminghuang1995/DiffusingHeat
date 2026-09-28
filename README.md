@@ -1,6 +1,6 @@
 # Diffusing_Heat
 
-This repository contains the dataset for the project "Diffusing Heat". The dataset is designed to train and evaluate generative models for optimizing scan paths and managing heat diffusion in the Laser Powder Bed Fusion (LPBF) process.
+This repository contains the dataset for the project "Diffusing Heat". The dataset is designed to train and evaluate generative models for optimizing scan paths.
 
 The provided dataset consists of a testing dataset containing 2000 sequences used for model evaluation.
 
